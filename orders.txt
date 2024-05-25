@@ -1,0 +1,20 @@
+Film: film2
+Jumlah Tiket: 2
+Nama: diko
+Email: indraadityawarman18@gmail.com
+
+Film: film2
+Jumlah Tiket: 2
+Nama: diko
+Email: indraadityawarman18@gmail.com
+
+Film: film1
+Jumlah Tiket: 1
+Nama: adit
+Email: indraa772@gmail.com
+
+Film: film1
+Jumlah Tiket: 2
+Nama: indra
+Email: indraa772@gmail.com
+

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Pemesanan Tiket Bioskop</title>
+  </head>
+  <body>
+    <div class="container">
+      <h2>Pemesanan Tiket Bioskop</h2>
+      <form action="booking.php" method="post">
+       <!-- Tambahkan elemen untuk menampilkan gambar dan detail film -->
+       <div class="movie-details">
+        <img src="gambar/godfather-poster.jpg" alt="Film Poster" id="movie-poster">
+        <p id="movie-description"></p>
+    </div>
+          <!-- Tambahkan pilihan film lainnya -->
+        </select>
+
+        <label for="quantity">Jumlah Tiket:</label>
+        <input type="number" name="quantity" id="quantity" min="1" required />
+
+        <button type="submit">Pesan Tiket</button>
+      </form>
+    </div>
+  </body>
+</html>
